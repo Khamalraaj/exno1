@@ -26,6 +26,8 @@ import numpy as np
 import seaborn as sn
 df=pd.read_csv("//content//Data_set.csv")
 df
+
+![Screenshot 2024-10-18 205022](https://github.com/user-attachments/assets/0730dd02-01bf-4b3a-93ae-43e3c4da7ec9)
 ![Screenshot 2024-10-18 205022](https://github.com/user-attachments/assets/086303d0-0816-40ea-a538-fd3e0ffc9                      ![Screenshot 2024-10-18 205152](https://github.com/user-attachments/assets/3488bc66-da21-4e7c-8268-9dfda60d1780)
 ![Screenshot 2024-10-18 205347](https://github.com/user-attachments/assets/fa2b3b97-8a3a-42ed-9544-766bb0bd428a)
 ![Screenshot 2024-10-18 205416](https://github.com/user-attachments/assets/2310bcfe-6ff0-4703-adfe-12a8e039caea)
